@@ -3,7 +3,7 @@
     margin-bottom: 15px;
 }
 
-.alert-wrapper h2 {
+.alert-wrapper > h2 {
     margin: 0 0 10px 0;
 }
 
@@ -11,7 +11,7 @@
     border: #6DA06F solid 1px;
 }
 
-.success h2 {
+.success > h2 {
     color: #6DA06F;
 }
 
@@ -19,6 +19,6 @@
     border: #F56260 solid 1px;
 }
 
-.error h2 {
+.error > h2 {
     color: #F56260;
 }
